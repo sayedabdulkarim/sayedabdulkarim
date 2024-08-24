@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "30px">, I'm Sayed Abdul Karim
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width = "30px">, I'm Sayed Abdul Karim
 </br>
 ### About Me
 
