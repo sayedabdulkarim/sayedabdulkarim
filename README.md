@@ -1,6 +1,6 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width = "30px">, I'm Sayed Abdul Karim
-</br>
-### About Me
+
+<h3 align="left">About Me:</h3>
 
 👨‍💻 Engineer by day, 🌌 explorer by night! A code wrangler with a knack for diving into the deep end of technology. <br> 
 Not tied down to any one domain—I'm on a mission to conquer them all 🤔. <br> 
@@ -18,8 +18,9 @@ Currently navigating the uncharted waters of **AI/ML**, and loving every bit of 
 <a href="https://instagram.com/kushaagrsig" target="blank" style="margin-left: 20px; display: inline-block;">
   <img align="center" src="https://icons.veryicon.com/png/System/Circle/linkedin.png" alt="kushaagrsig" height="30" width="40"/>
 </a>
-
+  <br>
 </p>
+
 
 | languages | <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" margin="40"/></a><a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" margin="40"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" margin="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" margin="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" margin="40"/></a>|
 | :---------: | :-------: |
