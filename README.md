@@ -1,7 +1,5 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "30px">, I'm Sayed Abdul Karim
-
 </br>
-
 ### About Me
 
 👨‍💻 Engineer by day, 🌌 explorer by night! A code wrangler with a knack for diving into the deep end of technology. <br> 
