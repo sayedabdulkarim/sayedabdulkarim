@@ -15,7 +15,7 @@ Currently navigating the uncharted waters of **AI/ML**, and loving every bit of 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:sakarim9124@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_128px.png" alt="kushaagrstwt" height="30" width="40" /></a>
-<a href="https://instagram.com/kushaagrsig" target="blank" style="margin-left: 20px; display: inline-block;">
+<a href="https://www.linkedin.com/in/sayed4747" target="blank" style="margin-left: 20px; display: inline-block;">
   <img align="center" src="https://icons.veryicon.com/png/System/Circle/linkedin.png" alt="kushaagrsig" height="30" width="40"/>
 </a>
   <br>
