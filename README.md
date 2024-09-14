@@ -36,3 +36,5 @@ Currently navigating the uncharted waters of **AI/ML**, and loving every bit of 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-nautresurrect&show_icons=true&locale=en&layout=compact" alt="k-nautresurrect" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-nautresurrect&theme=default" alt="k-nautresurrect" /></p>
+
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQE71gMIv4x10A/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1726316534424?e=1729123200&v=beta&t=tNm5Qxy6c-Ahy-fZEsgVS3C0gTKSr4t5-lvrlR4X6KU" />
